@@ -1,0 +1,10 @@
+@charset "UTF-8";
+nav ul {
+    background-color: yello;
+}
+nav ul li {
+    list-style-type: none;
+       display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
